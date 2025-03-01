@@ -5,7 +5,7 @@ category: preprints
 permalink: /publication/2022-08-06-TO_Self_Contact-number-2
 excerpt: 'A novel robust algorithm for topology optimization with frictional self-contact.'
 date: 2022-08-06
-venue: 'ArXiv Preprint'
+venue: 'ArXiv'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/abs/2208.04844'
 citation: #'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
