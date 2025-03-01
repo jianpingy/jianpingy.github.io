@@ -8,7 +8,7 @@ date: 2022-08-06
 venue: 'ArXiv'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/abs/2208.04844'
-citation: #'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Zeshun Zong, Xuan Li, Jianping Ye, Sian Wen, Yin Yang, Danny M Kaufman, Minchen Li, Chenfanfu Jiang'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Contact-aware topology optimization faces challenges in robustness, accuracy, and applicability to internal structural surfaces under self-contact. This work builds on the recently proposed barrier-based Incremental Potential Contact (IPC) model and presents a new self-contact-aware topology optimization framework. A combination of SIMP, adjoint sensitivity analysis, and the IPC frictional-contact model is investigated. Numerical examples for optimizing varying objective functions under contact are presented. The resulting algorithm proposed solves topology optimization for large deformation and complex frictionally contacting scenarios with accuracy and robustness.
