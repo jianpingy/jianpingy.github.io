@@ -17,7 +17,7 @@ Interests
 
 Recent News
 ------
-* 01/23/2025: We submitted our paper IPGO: Indirect Prompt Gradient Optimization on Text-to-Image Generative Models with High Data Efficiency to ICML 2025! Thanks to Michel Wedel and Kunpeng Zhang for the guidance!
+* 01/23/2025: We submitted our paper *IPGO: Indirect Prompt Gradient Optimization on Text-to-Image Generative Models with High Data Efficiency* to ICML 2025! Thanks to Michel Wedel and Kunpeng Zhang for the guidance!
 * 12/23/2024: Our extended abstract [SIGN: A Statistically-Informed Gaze Network for Gaze Time Prediction](https://arxiv.org/pdf/2501.17422?) is accepted by [Gaze Meets Computer Vision (GACV) Workshop at WACV 2025](https://sites.google.com/view/gmcv-workshop-wacv2025). Thanks to Michel Wedel for the guidance!
 * 11/01/2024: Our preprint [Contextual Advertising with Theory-Informed Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5007216) is available on SSRN. Thanks to Michel Wedel and Rik Pieters for the guidance!
 
