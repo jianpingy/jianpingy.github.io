@@ -15,22 +15,23 @@ Interests
 * Eye-tracking Modeling
 * Statistics and Data Science
 
-Recent News
+<!-- Recent News
 ------
 * 01/23/2025: We submitted our paper *IPGO: Indirect Prompt Gradient Optimization on Text-to-Image Generative Models with High Data Efficiency* to ICML 2025! Thanks to Michel Wedel and Kunpeng Zhang for the guidance!
 * 12/23/2024: Our extended abstract [SIGN: A Statistically-Informed Gaze Network for Gaze Time Prediction](https://arxiv.org/pdf/2501.17422?) is accepted by [Gaze Meets Computer Vision (GACV) Workshop at WACV 2025](https://sites.google.com/view/gmcv-workshop-wacv2025). Thanks to Michel Wedel for the guidance!
-* 11/01/2024: Our preprint [Contextual Advertising with Theory-Informed Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5007216) is available on SSRN. Thanks to Michel Wedel and Rik Pieters for the guidance!
+* 11/01/2024: Our preprint [Contextual Advertising with Theory-Informed Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5007216) is available on SSRN. Thanks to Michel Wedel and Rik Pieters for the guidance! -->
 
 Talks
 ------
-* (*Upcoming* 03-04-2025) **SIGN: A Statistically-Informed Gaze Network for Gaze Time Prediction**, GMCV workshop at WACV 2025.
-* (02-26-2025) **Contextual Advertising with Theory-Informed Machine Learning**, Quant Lunch Seminar, Robert Smith School of Business at University of Maryland, College Park.
+* (06-12-2025) **Contextual Advertising with Theory-Informed Machine Learning**, INFORMS Society for Marketing Science (ISMS) Marketing Conference, Washington DC.
+* (03-04-2025) **SIGN: A Statistically-Informed Gaze Network for Gaze Time Prediction**, GMCV workshop at WACV 2025.
 
 Awards
 ------
-* 02/25/2025: Faculty-Student Research Award, University of Maryland, College Park
-* 10/05/2023: Marketing Science Institute (MSI) Research Grant
-* 02/25/2021: Undergraduate Research Fellowship (top 10%), University of California, Los Angeles
+* May 2025: Summer Research Fellowship, UMD Graduate School
+* Feb 2025: Faculty-Student Research Award, University of Maryland, College Park
+* May 2023: Marketing Science Institute (MSI) Research Grant
+* Feb 2021: Undergraduate Research Fellowship (top 10%), University of California, Los Angeles
 
 <!-- A data-driven personal website
 ====== -->
