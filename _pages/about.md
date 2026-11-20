@@ -27,8 +27,12 @@ Before UMD, I earned my B.S. in Applied Mathematics at UCLA, with a specializati
 ## Research highlights
 
 * **[AdGazer](https://doi.org/10.1177/00222429251396114)**, published in the *Journal of Marketing*, combines theory-informed visual and semantic features to predict attention and improve contextual ad placement.
-* **[AdGaze-3500]({{ '/publication/2026-06-01-AdGaze-3500' | relative_url }})** and **[SIGN]({{ '/publication/2025-01-25-SIGN-number-4' | relative_url }})**, presented at CVPR workshops in 2026, study multimodal models for advertising attention and statistically informed gaze prediction.
-* **[ViASNet](https://arxiv.org/abs/2605.29302)** models attention over time in video ads, while **[IPGO](https://arxiv.org/abs/2503.21812)** explores efficient prompt-level adaptation of text-to-image models.
+* At **CVPR 2026**, I presented **[SIGN]({{ '/publication/2025-01-25-SIGN-number-4' | relative_url }})** as an **oral presentation** and **[AdGaze-3500]({{ '/publication/2026-06-01-AdGaze-3500' | relative_url }})** as a **poster** in their respective workshops.
+* **[ViASNet](https://arxiv.org/abs/2605.29302)**, currently **submitted and under review**, models attention over time in video ads. **[IPGO](https://arxiv.org/abs/2503.21812)** explores efficient prompt-level adaptation of text-to-image models.
+
+## Media coverage
+
+**February 13, 2026 — UMD Robert H. Smith School of Business:** [Smith Researcher Co Develops AdGazer, a Breakthrough for Predicting Attention to Digital Ads](https://www.rhsmith.umd.edu/research/smith-researcher-co-develops-adgazer-breakthrough-predicting-attention-digital-ads).
 
 ## Honors, awards, and research support
 
@@ -36,6 +40,8 @@ Before UMD, I earned my B.S. in Applied Mathematics at UCLA, with a specializati
 
 ## Selected presentations
 
+* **June 2026 — Oral:** SIGN: A Statistically-Informed Gaze Network for Gaze Time Prediction and Inference — Eye and Gaze in Computer Vision (GAZE) Workshop at CVPR 2026.
+* **June 2026 — Poster:** AdGaze-3500: Evaluating Large Multimodal Models' Ability to Predict Human Attention to Ads — Workshop on Emerging Directions in Data for Multimodal Foundation Models (DataMFM) at CVPR 2026.
 * **June 2025:** Contextual Advertising with Theory-Informed Machine Learning — INFORMS Society for Marketing Science Conference, Washington, DC.
 * **March 2025:** Contextual Advertising with Theory-Informed Machine Learning — Artificial Intelligence in Management Conference, Los Angeles.
 * **March 2025:** SIGN: A Statistically-Informed Gaze Network for Gaze Time Prediction — Gaze Meets Computer Vision Workshop at WACV, Tucson.

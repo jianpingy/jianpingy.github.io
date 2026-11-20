@@ -5,7 +5,7 @@
 <h3>{{ category[1].title }}</h3>
 <ul>
     {% for paper in papers %}
-  <li>{{ paper.citation | escape }}. <a href="{{ paper.url | relative_url }}">{{ paper.title | escape }}</a>. <em>{{ paper.venue | escape }}</em>, {{ paper.date | date: '%Y' }}.</li>
+  <li>{{ paper.citation | escape }}. <a href="{{ paper.url | relative_url }}">{{ paper.title | escape }}</a>. <em>{{ paper.venue | escape }}</em>, {{ paper.date | date: '%Y' }}.{% if paper.status %} <strong>{{ paper.status | escape }}.</strong>{% endif %}{% if paper.presentation %} <strong>{{ paper.presentation | escape }}.</strong>{% endif %}</li>
     {% endfor %}
 </ul>
   {% endif %}
