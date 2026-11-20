@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Jianping's Homepage"
 title_separator          : "-"
 name                     : &name "Jianping Ye"
-description              : &description "personal description"
+description              : &description "Jianping Ye — statistical machine learning, AI for advertising, eye tracking, and generative AI."
 url                      : https://jianpingy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jianpingy/jianpingy.github.io"
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Jianping Ye"
   pronouns         : # example: "she/her"  
-  bio              : "AI for Marketing"
-  location         : "Greenbelt, MD"
+  bio              : "Statistical ML · Visual Attention · AI for Advertising"
+  location         : "College Park, MD"
   employer         : "UMD, College Park"
   uri              : # URL
   email            : "jpye00@umd.edu" 
@@ -87,6 +87,21 @@ publication_category:
     title: 'Workshop Papers'    
   conferences:
     title: 'Conference Papers'
+  other:
+    title: 'Other Works'
+
+# Topic groups for the Publications page; venue categories are used on the CV.
+research_areas:
+  advertising:
+    title: 'AI for Advertising'
+  vision:
+    title: 'Eye Tracking and Computer Vision'
+  generative:
+    title: 'Generative AI'
+  optimization:
+    title: 'Optimization and Scientific Computing'
+  other:
+    title: 'Other Works'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

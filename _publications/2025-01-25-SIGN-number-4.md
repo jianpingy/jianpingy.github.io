@@ -1,13 +1,18 @@
 ---
-title: "SIGN: A Statistically-Informed Gaze Network for Gaze Time Prediction"
+title: "SIGN: A Statistically-Informed Gaze Network for Gaze Time Prediction and Inference"
 collection: publications
 category: workshops
+research_area: vision
 permalink: /publication/2025-01-25-SIGN-number-4
-excerpt: 'A statistically-informed neural network for eye gaze predictions.'
-date: 2025-01-25
-venue: 'Gaze Meets Computer Vision (GMCV) at WACV 2025'
-paperurl: 'https://arxiv.org/abs/2501.17422'
+excerpt: 'A probabilistic foundation for predicting total gaze time and inferring fixation maps without individual-level eye-movement data.'
+date: 2026-06-01
+venue: 'CVPR Workshops — Eye and Gaze in Computer Vision (GAZE), 5879–5889'
+paperurl: 'https://openaccess.thecvf.com/content/CVPR2026W/GAZE/html/Ye_SIGN_A_Statistically-Informed_Gaze_Network_for_Gaze_Time_Prediction_and_CVPRW_2026_paper.html'
 citation: 'Jianping Ye, Michel Wedel'
 ---
 
-We propose a first version of SIGN, a Statistically-Informed Gaze Network, to predict aggregate gaze times on images. We develop a foundational statistical model for which we derive a deep learning implementation involving CNNs and Visual Transformers, which enables the prediction of overall gaze times. The model enables us to derive from the aggregate gaze times the underlying gaze pattern as a probability map over all regions in the image, where each region's probability represents the likelihood of being gazed at across all possible scan-paths. We test SIGN's performance on AdGaze3500, a dataset of images of ads with aggregate gaze times, and on COCO-Search18, a dataset with individual-level fixation patterns collected during search. We demonstrate that SIGN (1) improves gaze duration prediction significantly over state-of-the-art deep learning benchmarks on both datasets, and (2) can deliver plausible gaze patterns that correspond to empirical fixation patterns in COCO-Search18. These results suggest that the first version of SIGN holds promise for gaze-time predictions and deserves further development.
+SIGN connects a probabilistic model of gaze behavior to a neural network for predicting total viewing time and inferring spatial fixation patterns. It can learn from aggregate gaze durations when individual scanpaths are unavailable. Experiments on AdGaze-3500 and COCO-Search18 evaluate both duration prediction and the correspondence between inferred and observed attention maps.
+
+The full paper appeared in the 2026 CVPR Workshop on Eye and Gaze in Computer Vision, pages 5879–5889.
+
+An earlier version, [SIGN: A Statistically-Informed Gaze Network for Gaze Time Prediction](https://arxiv.org/abs/2501.17422), was presented at the Gaze Meets Computer Vision Workshop at WACV 2025.

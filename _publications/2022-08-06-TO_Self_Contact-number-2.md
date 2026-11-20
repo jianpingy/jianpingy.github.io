@@ -2,10 +2,11 @@
 title: "Topology optimization with frictional self-contact"
 collection: publications
 category: preprints
+research_area: optimization
 permalink: /publication/2022-08-06-TO_Self_Contact-number-2
 excerpt: 'A novel robust algorithm for topology optimization with frictional self-contact.'
 date: 2022-08-06
-venue: 'arXiv'
+venue: 'arXiv preprint, arXiv:2208.04844'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/abs/2208.04844'
 citation: 'Zeshun Zong, Xuan Li, Jianping Ye, Sian Wen, Yin Yang, Danny M Kaufman, Minchen Li, Chenfanfu Jiang'

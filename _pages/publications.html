@@ -5,32 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
+<p>My research spans advertising, visual attention, generative AI, and mathematical optimization. Papers are grouped by research area below; each entry lists its publication venue or preprint status.</p>
+
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<p class="wordwrap">See also <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</p>
 {% endif %}
 
 {% include base_path %}
+{% assign publications = site.publications | sort: 'date' | reverse %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
+<nav aria-label="Publication research areas">
+  <ul>
+  {% for area in site.research_areas %}
+    <li><a href="#{{ area[0] }}">{{ area[1].title }}</a></li>
   {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+  </ul>
+</nav>
+
+{% for area in site.research_areas %}
+  {% assign papers = publications | where: 'research_area', area[0] %}
+  {% if papers.size > 0 %}
+<section aria-labelledby="{{ area[0] }}">
+  <h2 id="{{ area[0] }}">{{ area[1].title }}</h2>
+  {% for post in papers %}
+    {% include archive-single.html heading_level=3 %}
   {% endfor %}
-{% endif %}
-
-
-
+</section>
+  {% endif %}
+{% endfor %}

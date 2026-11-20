@@ -1,0 +1,12 @@
+{% assign publications = site.publications | sort: 'date' | reverse %}
+{% for category in site.publication_category %}
+  {% assign papers = publications | where: 'category', category[0] %}
+  {% if papers.size > 0 %}
+<h3>{{ category[1].title }}</h3>
+<ul>
+    {% for paper in papers %}
+  <li>{{ paper.citation | escape }}. <a href="{{ paper.url | relative_url }}">{{ paper.title | escape }}</a>. <em>{{ paper.venue | escape }}</em>, {{ paper.date | date: '%Y' }}.</li>
+    {% endfor %}
+</ul>
+  {% endif %}
+{% endfor %}

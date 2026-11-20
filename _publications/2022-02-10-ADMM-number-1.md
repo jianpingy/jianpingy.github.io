@@ -2,12 +2,13 @@
 title: "Adaptive uncertainty-weighted ADMM for distributed optimization"
 collection: publications
 category: manuscripts
+research_area: optimization
 permalink: /publication/2022-02-10-ADMM-number-1
 excerpt: 'An ADMM-based efficient distributed optimization algorithm with guidance from uncertainty quantifications.'
 date: 2022-02-10
-venue: 'Journal of Applied and Numerical Optimization'
+venue: 'Journal of Applied and Numerical Optimization, 4(2), 273–290'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://arxiv.org/abs/2109.01089'
+paperurl: 'https://doi.org/10.23952/jano.4.2022.2.10'
 citation: 'Jianping Ye, Caleb Wan, Samy Wu Fung'
 ---
 
