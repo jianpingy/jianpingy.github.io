@@ -28,21 +28,7 @@ Fall 2022.
 
 In my most recent semester, **Spring 2025 (STAT100)**, students rated recommendation **3.8/4.0** and classroom inclusion **3.9/4.0**, with 11 responses for each item.
 
-The table reports UMD's semester-level mean scores on its **0–4 scale**, where **4 = strongly agree**. The two questions were:
-
-* **Recommendation:** “I would recommend this TA to other students for this course.”
-* **Inclusion:** “The TA created an inclusive environment where I belonged.”
-
-| Semester | Course | Responses / invited | Recommendation | Inclusion |
-| --- | --- | ---: | ---: | ---: |
-| Spring 2025 | STAT100 | 11 / 82 | 3.8 | 3.9 |
-| Fall 2024 | STAT100 | 12 / 78 | 3.4 | 3.5 |
-| Spring 2024 | STAT100 | 4 / 42 | 3.5 | 3.5 |
-| Fall 2023 | STAT100 | 7 / 61 | 2.9 | 3.1 |
-| Spring 2023 | STAT100 | 13 / 59 | 2.4 | 3.2 |
-| Fall 2022 | MATH241 | 16 / 55 | 3.9 | 3.8 |
-
-Source: University of Maryland Course Experiences teaching-assistant reports. Response counts apply to both displayed items; N/A responses are excluded from the reported means. Different students responded each semester.
+Ratings are from UMD Course Experiences on a 0–4 scale, where 4 means strongly agree.
 
 ## Curriculum development
 
